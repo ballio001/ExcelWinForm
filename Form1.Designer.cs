@@ -45,13 +45,13 @@ namespace ExcelWinForm
             // 
             // CmdWrite
             // 
-            //this.CmdWrite.Location = new System.Drawing.Point(102, 34);
-            //this.CmdWrite.Name = "CmdWrite";
-            //this.CmdWrite.Size = new System.Drawing.Size(75, 23);
-            //this.CmdWrite.TabIndex = 1;
-            //this.CmdWrite.Text = "Write";
-            //this.CmdWrite.UseVisualStyleBackColor = true;
-            //this.CmdWrite.Click += new System.EventHandler(this.CmdWrite_Click);
+            this.CmdWrite.Location = new System.Drawing.Point(102, 34);
+            this.CmdWrite.Name = "CmdWrite";
+            this.CmdWrite.Size = new System.Drawing.Size(75, 23);
+            this.CmdWrite.TabIndex = 1;
+            this.CmdWrite.Text = "Write";
+            this.CmdWrite.UseVisualStyleBackColor = true;
+            this.CmdWrite.Click += new System.EventHandler(this.CmdWrite_Click);
             // 
             // Form1
             // 
