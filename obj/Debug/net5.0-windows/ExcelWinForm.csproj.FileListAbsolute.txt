@@ -17,3 +17,4 @@ C:\Users\Onur\source\repos\ExcelWinForm\ExcelWinForm\obj\Debug\net5.0-windows\Ex
 C:\Users\Onur\source\repos\ExcelWinForm\ExcelWinForm\obj\Debug\net5.0-windows\ref\ExcelWinForm.dll
 C:\Users\Onur\source\repos\ExcelWinForm\ExcelWinForm\obj\Debug\net5.0-windows\ExcelWinForm.pdb
 C:\Users\Onur\source\repos\ExcelWinForm\ExcelWinForm\obj\Debug\net5.0-windows\ExcelWinForm.genruntimeconfig.cache
+C:\Users\Onur\source\repos\ExcelWinForm\ExcelWinForm\obj\Debug\net5.0-windows\ExcelWinForm.csproj.AssemblyReference.cache

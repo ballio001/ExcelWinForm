@@ -9,8 +9,8 @@ namespace ExcelWinForm.Excel
         public static void writeExcel()
         {
             //filepath to the location of the Excel
-            string filePath = "C:\\Users\\Onur\\source\\repos\\ExcelWinForm\\ExcelWinForm\\TestExcel.csv";
-            string filePathEdited = "C:\\Users\\Onur\\source\\repos\\ExcelWinForm\\ExcelWinForm\\TestExcel2.csv";
+            string filePath = Files.OriginalFilePath;
+            string filePathEdited = Files.EditedFilePath;
             Microsoft.Office.Interop.Excel.Application excel = new Microsoft.Office.Interop.Excel.Application();
 
             //var to hold the objects

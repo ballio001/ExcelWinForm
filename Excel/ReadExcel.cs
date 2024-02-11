@@ -7,7 +7,7 @@ namespace ExcelWinForm.Excel
     {
         public static void readExcel()
         {
-            string filePath = "C:\\Users\\Onur\\source\\repos\\ExcelWinForm\\ExcelWinForm\\TestExcel.csv";
+            string filePath = Files.OriginalFilePath;
             Microsoft.Office.Interop.Excel.Application excel = new Microsoft.Office.Interop.Excel.Application();
 
             //var to hold the objects
